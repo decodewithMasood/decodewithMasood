@@ -1,7 +1,7 @@
 # Masood Ahmed
 
 ## About Me
-I'm Masood Ahmed, a Data Scientist with 2 years of experience in AI and Data Science. I'm self-taught through Coursera and other online courses. Currently, I work at Walee, focusing on various data projects. I'm passionate about RNNs and NLP.
+I'm Masood Ahmed, a Data Scientist with 2 years of experience in AI and Data Science. I'm self-taught through Coursera and other online courses. Currently, I work at Walee, focusing on various data projects.
 
 ## Current Focus
 - 🔭 I'm currently learning RNNs and NLP.
